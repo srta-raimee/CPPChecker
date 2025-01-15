@@ -49,7 +49,7 @@ To ensure the script can execute `cppcheck` from any location, you might need to
 2. Place the script in the directory you wish to analyze.
 3. Execute the script using Python:
    ```bash
-   python script_name.py
+   python cppchecker.py
    ```
 
 ### **Output**
