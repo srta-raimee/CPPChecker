@@ -1,5 +1,5 @@
 
-# **Cppcheck Syntax Checker**
+# **CPP Syntax Checker**
 
 ## **Description**
 This Python script checks the syntax and potential issues in C/C++ source files using `cppcheck`. It traverses a specified directory and all its subdirectories, running `cppcheck` on each C/C++ file it finds. The results are saved in an HTML report.
